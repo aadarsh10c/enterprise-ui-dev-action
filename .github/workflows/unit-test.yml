@@ -23,7 +23,7 @@ jobs:
         cache: 'npm'
     - run: npm ci
     - run: npm test
-   Build:
+  Build:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
