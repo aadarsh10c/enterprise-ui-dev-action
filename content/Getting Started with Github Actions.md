@@ -1,7 +1,6 @@
 # Getting Started with Github Actions
 
 ## The High Level
-### A a single comment
 
 [Github Actions](https://github.com/features/actions) is a system for running workflows on Github's infrastructure to "do stuff when things happen". More specifically:
 
